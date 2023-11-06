@@ -63,6 +63,8 @@ Available routes:
 
 ## Diagram
 
+(https://github.com/smit343/docker-compoose-project4/assets/60944678/494b14e0-c8f1-41bb-b756-7ee0658bd124)
+
 
 
 ## Authors
